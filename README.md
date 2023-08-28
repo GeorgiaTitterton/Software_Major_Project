@@ -1,19 +1,30 @@
 
-# Small Buisness Application Software
+# Small Business Application Software
 
-This software creates a portal for applicants to apply for jobs at at small buisness. Once all the details of the applicant are entered and they select save it will be stored in a Excel File named "Data Sheet". 
-The employer portal within the software requries a login and allows for the small buisness employer to search the applications based on a given criteria that they select. 
+This software creates a portal for applicants to apply for jobs at at small business. Once all the details of the applicant are entered and they select to save it will be stored in an Excel File named "Data Sheet". 
+The employer portal within the software requires a login and allows for the small business employer to search the applications based on a given criteria that they select. 
+
+
+
+#VERY IMPORTANT 
+
+Before using any of the software please download the datasheet
+Then copy the location of the data sheet from your computer and paste this location into the code section "filepath" that can be found on Line 10 of the code Main Window
+
+
+
 
 
 #Before using the Software
 
-Before using the software please install the following libraries into python:
+Before using the software please install the following libraries into Python:
 - Tkinter
 - pandas as pd
 - os
 - openpyxl
 
 These will allow the software to function correctly. 
+
 
 
 
